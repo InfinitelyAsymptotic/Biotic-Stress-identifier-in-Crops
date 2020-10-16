@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320959961292",
+    "firebase_url": "https://apt-aloe-291008.firebaseio.com",
+    "project_id": "apt-aloe-291008",
+    "storage_bucket": "apt-aloe-291008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320959961292:android:36f58bba9384c1ef65ca69",
+        "android_client_info": {
+          "package_name": "com.example.hamarkisaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320959961292-holas7bukp8dqre260afspiulbrlqj10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh84IquexT9XxCRgibuf5SMAnb0Bo7TFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320959961292-holas7bukp8dqre260afspiulbrlqj10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
